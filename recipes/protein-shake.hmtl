@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protein Shake Recipe</title>
+</head>
+<body>
+ <h1>Protein Shake Recipe</h1>   
+<p>
+Here is the recipe for a protein shake!
+</p>
+
+<li>
+<ul>1 scoop chocolate protein powder</ul>
+<ul>1 scoop peanut butter powder</ul>
+<ul>1 banana</ul>
+<ul>1 scoop collagen</ul>
+<ul>1 scoop creatine</ul>
+<ul>2 cups almond or coconut milk</ul>
+</li>
+
+
+</body>
+</html>
