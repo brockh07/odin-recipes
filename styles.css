@@ -1,0 +1,38 @@
+.header {
+font-size:30px;
+color:black;
+text-align: center;
+background-color: #dbdbdb;
+margin: 24px 500px;
+padding:8px;
+border-radius:32px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+font-family: serif;
+color:black;
+padding:16px 32px;
+width: 350px;
+margin-top: 8px;
+margin:0px auto;
+background-color: #dbdbdb;
+text-align: center;
+}
+
+.b{
+background-color: #dbdbdb;
+border:2px solid black;
+font-size:30px;
+margin:16px;
+
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
